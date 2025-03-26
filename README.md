@@ -2,7 +2,7 @@
 **par/fait**
 
 ### About Me
-I'm a Software Engineering student with a passion for manga, especially Chainsaw Man!
+I'm a Software Engineering student with a passion for manga!
 
 ### Projects
 * ...
